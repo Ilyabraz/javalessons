@@ -45,7 +45,7 @@ public class w1 {
                     }
                 }
             }
-            System.out.println("Самые дорогие товары, в названии которых есть слово 'высший': ");
+            System.out.println("Наибольшая цена товаров 1го или 2го сорта, в названии которых есть слово 'высший': ");
             System.out.println(maxPriceSortedNames);
             System.out.println("Наибольшая цена: " + maxPrice);
         }
